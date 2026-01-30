@@ -200,13 +200,13 @@ nav {
 .logo-image {
     -webkit-mask-image: linear-gradient(to right,
             transparent,
-            black 20%,
+            black 15%,
             black 80%,
             transparent);
 
     mask-image: linear-gradient(to right,
             transparent,
-            black 20%,
+            black 15%,
             black 80%,
             transparent);
 }
@@ -837,3 +837,4 @@ input::placeholder {
 
 
 }
+
